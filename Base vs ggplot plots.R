@@ -32,3 +32,4 @@ faithful %>%
           axis.title.y = element_text(size = 14),
           axis.text.y = element_text(size = 12),
           plot.title = element_text(size = 20)) 
+
